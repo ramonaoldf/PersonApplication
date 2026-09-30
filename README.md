@@ -15,9 +15,9 @@ Run `mvn clean install` to clean and build the project. The build artifacts will
 ## Screenshots: 
 
 
-![Alt text](https://github.com/ikismail/Jersey-AngularJs-CRUD-WebService-Person-App/blob/master/screenshots/home.PNG)
+![Alt text](https://github.com/ramonaoldf/Jersey-AngularJs-CRUD-WebService-Person-App/blob/master/screenshots/home.PNG)
 
 Add & Update Person Modal View:
 ------------------------------
 
-![Alt text](https://github.com/ikismail/Jersey-AngularJs-CRUD-WebService-Person-App/blob/master/screenshots/updatePerson.PNG)
+![Alt text](https://github.com/ramonaoldf/Jersey-AngularJs-CRUD-WebService-Person-App/blob/master/screenshots/updatePerson.PNG)
